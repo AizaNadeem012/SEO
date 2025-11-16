@@ -91,7 +91,7 @@ const Header = () => {
               <div className="w-10 h-10 rounded-full bg-gradient-to-r from-[#20B2AA] to-teal-500 flex items-center justify-center">
                 <Sparkles className="h-6 w-6 text-white" />
               </div>
-              <span className="text-xl font-bold text-slate-900">AIZA SEO</span>
+              <span className="text-xl font-bold text-slate-900">SEOMatrix Bot</span>
             </div>
 
             {/* Desktop Navigation */}
